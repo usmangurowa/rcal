@@ -1,8 +1,8 @@
-# React Switch
+# React Click Away Listener (rcal)
 
-[![npm version](https://img.shields.io/npm/v/rcal.svg)](https://www.npmjs.com/package/rcal)
+[![npm version](https://img.shields.io/npm/v/rcal.svg)](https://www.npmjs.com/package/@usmangurowa/rcal)
 
-[![license](https://img.shields.io/npm/l/rcal.svg)](https://github.com/your-username/rcal/blob/master/LICENSE)
+[![license](https://img.shields.io/npm/l/rcal.svg)](https://github.com/usmangurowa/rcal/blob/master/LICENSE)
 
 A simple react click away listener component for React applications.
 
